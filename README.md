@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Eugene
 #### I'm dev game
 
-![my banner]([https://github.com/nelivv/image/blob/main/Banner-min%20(2).png](https://post-images.org/photo-page.php?photo=yORPhTdo))
+![my banner](https://github.com/nelivv/image/blob/main/Banner.png)
 
 I have been living in Russia for 15 years, I strive for a good programmer of Unreal, unity games
 
