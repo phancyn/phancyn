@@ -3,6 +3,8 @@
 
 ![my banner](https://github.com/nelivv/image/blob/main/Banner.png)
 
+<a href="https://t.me/phancyn">My Telegram Channel</a>
+
 I have been living in Russia for 15 years, I strive for a good programmer of Unreal, unity games
 
 Skills: C#, HTML, C++
