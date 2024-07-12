@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Eugene
 #### I'm dev game
 
-![my banner](https://github.com/phancyn/image/blob/main/Gifs-Banner.gif)
+![my banner](https://github.com/phancyn/image/blob/main/BannerGif_1.gif)
 
 <a href="https://t.me/phancyn">My Telegram Channel</a>
 
