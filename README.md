@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Eugene
-#### I'm dev game
+#### I'm developer game
 
 ![my banner](https://github.com/phancyn/image/blob/main/BannerGif_1.gif)
 
