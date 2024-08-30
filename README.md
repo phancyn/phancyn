@@ -18,7 +18,7 @@ Skills: C#, HTML, C++
   </a>
   <p align="center">
    <img width="100" height="100" src="https://github.com/phancyn/image/blob/main/logo-nightday2.png" alt="Logo">
-     <h1 align="center"><b>NightDay Download</b></h1>
+     <h1 align="center"><b>NightDay Download, lang: Eng</b></h1>
         <p align="center">
       Star PLS!!!!"
     <br />
@@ -35,7 +35,7 @@ Skills: C#, HTML, C++
   </a>
   <p align="center">
    <img width="100" height="100" src="https://github.com/phancyn/image/blob/main/Icon%20For%20Enemy%20Night.png?raw=true" alt="Logo">
-     <h1 align="center"><b>Enemy Night Download</b></h1>
+     <h1 align="center"><b>Enemy Night Download, Lang: Rus</b></h1>
         <p align="center">
       Star PLS!!!!"
     <br />
