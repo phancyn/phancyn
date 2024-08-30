@@ -42,6 +42,7 @@ Skills: C#, HTML, C++
     <a href="https://phancyn.itch.io/enemy-night"><strong>Install on itch »</strong></a>
     <br />
     <br />
+    <a href="https://vk.com/phancyn_official"><strong>Install in VK »</strong></a>
     <br />
   </p>
   </p>
