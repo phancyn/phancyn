@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Eugene
 #### I'm developer game
 
-![my banner](https://github.com/phancyn/image/blob/main/BannerGif_1.gif)
+![my banner](https://github.com/phancyn/phancyn/blob/main/Gojo.gif)
 
 <a href="https://github.com/phancyn/phancyn/blob/main/My_layout_Unity.wlt">My layout Unity</a>
 
