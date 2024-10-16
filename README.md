@@ -9,7 +9,7 @@
 
 I have been living in Russia for 15 years, I strive for a good programmer of Unreal, unity games
 
-Skills: C#, HTML, C++
+Skills: C#, HTML, C++, Git
  
 
 
