@@ -47,6 +47,21 @@ Skills: C#, HTML, C++
   </p>
   </p>
 
+  <p align="center">
+  <a href="#">
+  </a>
+  <p align="center">
+   <img width="100" height="100" src="https://github.com/phancyn/Fish-Launcher-Public/blob/main/FishLauncher/SourceCode/LaucnherYouTube/res/Fish-3D.png?raw=true" alt="Logo">
+     <h1 align="center"><b>Fish Launcher(Updater) For Your Game, Lang: Rus</b></h1>
+        <p align="center">
+      Star PLS!!!!"
+    <br />
+    <a href="https://github.com/phancyn/Fish-Launcher-Public"><strong>View on Github »</strong></a>
+    <br />
+    <br />
+  </p>
+  </p>
+
 
 
 
