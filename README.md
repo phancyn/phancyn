@@ -10,7 +10,8 @@
 I have been living in Russia for 15 years, I strive for a good programmer of Unreal, unity games
 
 Skills: C#, HTML, C++, Git
- 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phancyn&hide=contribs,prs)
 
 
 <p align="center">
