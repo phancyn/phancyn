@@ -56,7 +56,7 @@ Skills: C#, HTML, C++, Git
         <p align="center">
       Star PLS!!!!
     <br />
-    <a href="https://github.com/phancyn/ATMOS-Sound"><strong>in Git »</strong></a>
+
     <br />
   </p>
   </p>
