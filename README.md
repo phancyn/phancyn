@@ -47,6 +47,21 @@ Skills: C#, HTML, C++, Git
   </p>
   </p>
 
+ <p align="center">
+  <a href="#">
+  </a>
+  <p align="center">
+   <img width="100" height="100" src="https://github.com/phancyn/ATMOS-Sound/blob/main/img/logo.png?raw=true" alt="Logo">
+     <h1 align="center"><b>ATMOS SOUND</b></h1>
+        <p align="center">
+      Star PLS!!!!
+    <br />
+    <a href="https://github.com/phancyn/ATMOS-Sound"><strong>in Git »</strong></a>
+    <br />
+  </p>
+  </p>
+
+
   <p align="center">
   <a href="#">
   </a>
@@ -62,18 +77,5 @@ Skills: C#, HTML, C++, Git
   </p>
   </p>
 
- <p align="center">
-  <a href="#">
-  </a>
-  <p align="center">
-   <img width="100" height="100" src="https://github.com/phancyn/ATMOS-Sound/blob/main/img/logo.png?raw=true" alt="Logo">
-     <h1 align="center"><b>ATMOS SOUND</b></h1>
-        <p align="center">
-      Star PLS!!!!
-    <br />
-    <a href="https://github.com/phancyn/ATMOS-Sound"><strong>in Git »</strong></a>
-    <br />
-  </p>
-  </p>
 
 
