@@ -51,7 +51,7 @@ Skills: C#, HTML, Git, PHP, CSS, Js
   <a href="#">
   </a>
   <p align="center">
-   <img width="100" height="100" src="https://github.com/phancyn/ATMOS-Sound/blob/main/img/logo.png?raw=true" alt="Logo">
+   <img width="100" height="100" src="https://github.com/phancyn/phancyn/blob/main/atmos.png?raw=true" alt="Logo">
      <h1 align="center"><b>ATMOS SOUND</b></h1>
         <p align="center">
       <br />
