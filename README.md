@@ -55,7 +55,7 @@ Skills: C#, HTML, Git, PHP, CSS, Js, Python
      <h1 align="center"><b>ATMOS SOUND</b></h1>
         <p align="center">
       <br />
-    <a href="http://phancyn.online"><strong>web site »</strong></a>
+    <a href="http://atmos-music.ru"><strong>web site »</strong></a>
     <br />
     <br />
     <br />
